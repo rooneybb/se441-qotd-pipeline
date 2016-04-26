@@ -1,4 +1,4 @@
-﻿stage "se441-qotd-pipeline"
+﻿stage 'se441-qotd-pipeline'
 
 node {
 	git 'https://github.com/rooneybb/se441-qotd-pipeline.git'
